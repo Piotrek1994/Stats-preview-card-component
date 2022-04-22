@@ -64,3 +64,17 @@ main {
 .insights {
     color: hsl(277, 64%, 61%);
 }
+
+.card-info {
+    padding-top: 20%;
+    padding-right: 11%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    font-weight: 700;
+    font-family: 'Inter', sans-serif;
+    font-size: 100%;
+    text-transform: uppercase;
+}
+
