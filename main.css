@@ -66,15 +66,27 @@ main {
 }
 
 .card-info {
-    padding-top: 20%;
+    padding-top: 22%;
     padding-right: 11%;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
     align-items: center;
-    font-weight: 700;
-    font-family: 'Inter', sans-serif;
-    font-size: 100%;
+    font-weight: 400;
+    font-family: 'Lexend Deca', sans-serif;
+    font-size: 77%;
     text-transform: uppercase;
+    color: hsla(0, 0%, 100%, 0.6);
+    letter-spacing: 1px;
 }
 
+.numbers {
+    font-weight: bold;
+    font-size: 185%;
+    font-family: 'Inter', sans-serif;
+    color: hsla(0, 0%, 100%, 0.75);
+}
+
+.k-style {
+    text-transform: lowercase;
+}
