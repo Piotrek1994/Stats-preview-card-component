@@ -61,3 +61,6 @@ main {
     font-size: 15px;
     line-height: 170%;
 }
+.insights {
+    color: hsl(277, 64%, 61%);
+}
